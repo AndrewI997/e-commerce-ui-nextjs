@@ -1,7 +1,9 @@
 {
   "name": "e-commerce-ui-nextjs",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "author": "AndrewI997",
+  "license": "MIT License",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
